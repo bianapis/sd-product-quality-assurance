@@ -1,0 +1,11 @@
+{
+  "productandServiceAssessmentSelectedOption" : "productandServiceAssessmentSelectedOption",
+  "productandServiceAssessmentGrantActionTaskRecord" : {},
+  "productandServiceAssessmentParameterType" : "productandServiceAssessmentParameterType",
+  "productandServiceAssessmentRequest" : "productandServiceAssessmentRequest",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "productandServiceAssessmentGrantActionTaskReference" : "PASAGATR779190",
+  "grantRequestRecordReference" : "GRRR748163"
+}

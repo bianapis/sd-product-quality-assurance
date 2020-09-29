@@ -1,0 +1,14 @@
+{
+  "resiliencyandPerformanceChecksVersionNumber" : "resiliencyandPerformanceChecksVersionNumber",
+  "resiliencyandPerformanceChecksAnalysisSchedule" : "resiliencyandPerformanceChecksAnalysisSchedule",
+  "resiliencyandPerformanceChecksPreconditions" : "resiliencyandPerformanceChecksPreconditions",
+  "resiliencyandPerformanceChecksServiceType" : "resiliencyandPerformanceChecksServiceType",
+  "resiliencyandPerformanceChecksUpdateActionTaskReference" : "RAPCUATR707462",
+  "resiliencyandPerformanceChecksServiceWorkProduct" : "resiliencyandPerformanceChecksServiceWorkProduct",
+  "resiliencyandPerformanceChecksUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "resiliencyandPerformanceChecksServiceName" : "resiliencyandPerformanceChecksServiceName",
+  "resiliencyandPerformanceChecksServiceDescription" : "resiliencyandPerformanceChecksServiceDescription",
+  "resiliencyandPerformanceChecks" : "resiliencyandPerformanceChecks",
+  "resiliencyandPerformanceChecksServiceInputsandOuputs" : "resiliencyandPerformanceChecksServiceInputsandOuputs"
+}

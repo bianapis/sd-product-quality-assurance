@@ -1,0 +1,25 @@
+{
+  "processingErrorandIntegrityChecksAnalysisSchedule" : "processingErrorandIntegrityChecksAnalysisSchedule",
+  "processingErrorandIntegrityChecks" : "processingErrorandIntegrityChecks",
+  "processingErrorandIntegrityChecksRetrieveActionTaskReference" : "PEAICRATR719874",
+  "processingErrorandIntegrityChecksVersionNumber" : "processingErrorandIntegrityChecksVersionNumber",
+  "processingErrorandIntegrityChecksRetrieveActionTaskRecord" : {},
+  "processingErrorandIntegrityChecksPreconditions" : "processingErrorandIntegrityChecksPreconditions",
+  "processingErrorandIntegrityChecksServiceType" : "processingErrorandIntegrityChecksServiceType",
+  "processingErrorandIntegrityChecksInstanceReport" : {
+    "processingErrorandIntegrityChecksInstanceReportParameters" : "processingErrorandIntegrityChecksInstanceReportParameters",
+    "processingErrorandIntegrityChecksInstanceReportType" : "processingErrorandIntegrityChecksInstanceReportType",
+    "processingErrorandIntegrityChecksInstanceReportRecord" : {},
+    "processingErrorandIntegrityChecksInstanceReport" : {}
+  },
+  "processingErrorandIntegrityChecksServiceWorkProduct" : "processingErrorandIntegrityChecksServiceWorkProduct",
+  "processingErrorandIntegrityChecksRetrieveActionResponse" : "processingErrorandIntegrityChecksRetrieveActionResponse",
+  "processingErrorandIntegrityChecksServiceInputsandOuputs" : "processingErrorandIntegrityChecksServiceInputsandOuputs",
+  "processingErrorandIntegrityChecksInstanceAnalysis" : {
+    "processingErrorandIntegrityChecksInstanceAnalysisRecord" : {},
+    "processingErrorandIntegrityChecksInstanceAnalysisReport" : {},
+    "processingErrorandIntegrityChecksInstanceAnalysisParameters" : "processingErrorandIntegrityChecksInstanceAnalysisParameters",
+    "processingErrorandIntegrityChecksInstanceAnalysisReportType" : "processingErrorandIntegrityChecksInstanceAnalysisReportType"
+  },
+  "processingErrorandIntegrityChecksServiceDescription" : "processingErrorandIntegrityChecksServiceDescription"
+}

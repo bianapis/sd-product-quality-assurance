@@ -1,0 +1,26 @@
+{
+  "resiliencyandPerformanceChecksRetrieveActionTaskRecord" : {},
+  "resiliencyandPerformanceChecksInstanceReport" : {
+    "resiliencyandPerformanceChecksInstanceReport" : {},
+    "resiliencyandPerformanceChecksInstanceReportParameters" : "resiliencyandPerformanceChecksInstanceReportParameters",
+    "resiliencyandPerformanceChecksInstanceReportType" : "resiliencyandPerformanceChecksInstanceReportType",
+    "resiliencyandPerformanceChecksInstanceReportRecord" : {}
+  },
+  "resiliencyandPerformanceChecksAnalysisSchedule" : "resiliencyandPerformanceChecksAnalysisSchedule",
+  "resiliencyandPerformanceChecksServiceType" : "resiliencyandPerformanceChecksServiceType",
+  "resiliencyandPerformanceChecksInstanceAnalysis" : {
+    "resiliencyandPerformanceChecksInstanceAnalysisParameters" : "resiliencyandPerformanceChecksInstanceAnalysisParameters",
+    "resiliencyandPerformanceChecksInstanceAnalysisRecord" : {},
+    "resiliencyandPerformanceChecksInstanceAnalysisReportType" : "resiliencyandPerformanceChecksInstanceAnalysisReportType",
+    "resiliencyandPerformanceChecksInstanceAnalysisReport" : {}
+  },
+  "resiliencyandPerformanceChecksServiceName" : "resiliencyandPerformanceChecksServiceName",
+  "resiliencyandPerformanceChecksServiceDescription" : "resiliencyandPerformanceChecksServiceDescription",
+  "resiliencyandPerformanceChecksRetrieveActionTaskReference" : "RAPCRATR759801",
+  "resiliencyandPerformanceChecks" : "resiliencyandPerformanceChecks",
+  "resiliencyandPerformanceChecksRetrieveActionResponse" : "resiliencyandPerformanceChecksRetrieveActionResponse",
+  "resiliencyandPerformanceChecksServiceInputsandOuputs" : "resiliencyandPerformanceChecksServiceInputsandOuputs",
+  "resiliencyandPerformanceChecksVersionNumber" : "resiliencyandPerformanceChecksVersionNumber",
+  "resiliencyandPerformanceChecksPreconditions" : "resiliencyandPerformanceChecksPreconditions",
+  "resiliencyandPerformanceChecksServiceWorkProduct" : "resiliencyandPerformanceChecksServiceWorkProduct"
+}

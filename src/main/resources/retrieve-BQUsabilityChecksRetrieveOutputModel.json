@@ -1,0 +1,25 @@
+{
+  "usabilityChecksServiceType" : "usabilityChecksServiceType",
+  "usabilityChecksServiceDescription" : "usabilityChecksServiceDescription",
+  "usabilityChecksVersionNumber" : "usabilityChecksVersionNumber",
+  "usabilityChecksPreconditions" : "usabilityChecksPreconditions",
+  "usabilityChecksServiceWorkProduct" : "usabilityChecksServiceWorkProduct",
+  "usabilityChecksInstanceReport" : {
+    "usabilityChecksInstanceReport" : {},
+    "usabilityChecksInstanceReportType" : "usabilityChecksInstanceReportType",
+    "usabilityChecksInstanceReportRecord" : {},
+    "usabilityChecksInstanceReportParameters" : "usabilityChecksInstanceReportParameters"
+  },
+  "usabilityChecksServiceInputsandOuputs" : "usabilityChecksServiceInputsandOuputs",
+  "usabilityChecksRetrieveActionTaskReference" : "UCRATR795878",
+  "usabilityChecksAnalysisSchedule" : "usabilityChecksAnalysisSchedule",
+  "usabilityChecksRetrieveActionTaskRecord" : {},
+  "usabilityChecksInstanceAnalysis" : {
+    "usabilityChecksInstanceAnalysisParameters" : "usabilityChecksInstanceAnalysisParameters",
+    "usabilityChecksInstanceAnalysisReport" : {},
+    "usabilityChecksInstanceAnalysisReportType" : "usabilityChecksInstanceAnalysisReportType",
+    "usabilityChecksInstanceAnalysisRecord" : {}
+  },
+  "usabilityChecksRetrieveActionResponse" : "usabilityChecksRetrieveActionResponse",
+  "usabilityChecksServiceName" : "usabilityChecksServiceName"
+}

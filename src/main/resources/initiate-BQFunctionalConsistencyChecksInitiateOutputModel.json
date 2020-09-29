@@ -1,0 +1,14 @@
+{
+  "functionalConsistencyChecksPreconditions" : "functionalConsistencyChecksPreconditions",
+  "functionalConsistencyChecksServiceName" : "functionalConsistencyChecksServiceName",
+  "functionalConsistencyChecksInstanceStatus" : "functionalConsistencyChecksInstanceStatus",
+  "functionalConsistencyChecksServiceDescription" : "functionalConsistencyChecksServiceDescription",
+  "functionalConsistencyChecksServiceInputsandOuputs" : "functionalConsistencyChecksServiceInputsandOuputs",
+  "functionalConsistencyChecksInitiateActionRecord" : {},
+  "functionalConsistencyChecksInstanceReference" : "FCCIR781133",
+  "functionalConsistencyChecksInitiateActionReference" : "FCCIAR735560",
+  "functionalConsistencyChecksAnalysisSchedule" : "functionalConsistencyChecksAnalysisSchedule",
+  "functionalConsistencyChecksVersionNumber" : "functionalConsistencyChecksVersionNumber",
+  "functionalConsistencyChecksServiceType" : "functionalConsistencyChecksServiceType",
+  "functionalConsistencyChecksServiceWorkProduct" : "functionalConsistencyChecksServiceWorkProduct"
+}

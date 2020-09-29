@@ -1,0 +1,25 @@
+{
+  "functionalConsistencyChecksPreconditions" : "functionalConsistencyChecksPreconditions",
+  "functionalConsistencyChecksRetrieveActionTaskRecord" : {},
+  "functionalConsistencyChecksServiceWorkProduct" : "functionalConsistencyChecksServiceWorkProduct",
+  "functionalConsistencyChecksInstanceAnalysis" : {
+    "functionalConsistencyChecksInstanceAnalysisReport" : {},
+    "functionalConsistencyChecksInstanceAnalysisParameters" : "functionalConsistencyChecksInstanceAnalysisParameters",
+    "functionalConsistencyChecksInstanceAnalysisRecord" : {},
+    "functionalConsistencyChecksInstanceAnalysisReportType" : "functionalConsistencyChecksInstanceAnalysisReportType"
+  },
+  "functionalConsistencyChecksServiceName" : "functionalConsistencyChecksServiceName",
+  "functionalConsistencyChecksServiceDescription" : "functionalConsistencyChecksServiceDescription",
+  "functionalConsistencyChecksServiceInputsandOuputs" : "functionalConsistencyChecksServiceInputsandOuputs",
+  "functionalConsistencyChecksRetrieveActionResponse" : "functionalConsistencyChecksRetrieveActionResponse",
+  "functionalConsistencyChecksRetrieveActionTaskReference" : "FCCRATR773481",
+  "functionalConsistencyChecksAnalysisSchedule" : "functionalConsistencyChecksAnalysisSchedule",
+  "functionalConsistencyChecksVersionNumber" : "functionalConsistencyChecksVersionNumber",
+  "functionalConsistencyChecksServiceType" : "functionalConsistencyChecksServiceType",
+  "functionalConsistencyChecksInstanceReport" : {
+    "functionalConsistencyChecksInstanceReportType" : "functionalConsistencyChecksInstanceReportType",
+    "functionalConsistencyChecksInstanceReportParameters" : "functionalConsistencyChecksInstanceReportParameters",
+    "functionalConsistencyChecksInstanceReportRecord" : {},
+    "functionalConsistencyChecksInstanceReport" : {}
+  }
+}

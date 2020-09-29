@@ -1,0 +1,13 @@
+{
+  "usabilityChecksUpdateActionTaskRecord" : {},
+  "usabilityChecksServiceType" : "usabilityChecksServiceType",
+  "usabilityChecksServiceDescription" : "usabilityChecksServiceDescription",
+  "usabilityChecksServiceInputsandOuputs" : "usabilityChecksServiceInputsandOuputs",
+  "usabilityChecksAnalysisSchedule" : "usabilityChecksAnalysisSchedule",
+  "usabilityChecksVersionNumber" : "usabilityChecksVersionNumber",
+  "usabilityChecksPreconditions" : "usabilityChecksPreconditions",
+  "updateResponseRecord" : {},
+  "usabilityChecksServiceWorkProduct" : "usabilityChecksServiceWorkProduct",
+  "usabilityChecksServiceName" : "usabilityChecksServiceName",
+  "usabilityChecksUpdateActionTaskReference" : "UCUATR731841"
+}

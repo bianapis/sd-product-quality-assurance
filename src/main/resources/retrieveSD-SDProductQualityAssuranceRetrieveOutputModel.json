@@ -1,0 +1,39 @@
+{
+  "productQualityAssuranceOfferedService" : {
+    "productQualityAssuranceServiceReference" : "776158",
+    "productQualityAssuranceServiceRecord" : {
+      "productQualityAssuranceServiceDescription" : "productQualityAssuranceServiceDescription",
+      "productQualityAssuranceServiceVersion" : "productQualityAssuranceServiceVersion",
+      "productQualityAssuranceServicePoliciesandGuidelines" : {
+        "productQualityAssuranceServiceIntendedUses" : "productQualityAssuranceServiceIntendedUses",
+        "productQualityAssuranceServiceEligibility" : "productQualityAssuranceServiceEligibility",
+        "productQualityAssuranceServicePricingandTerms" : "productQualityAssuranceServicePricingandTerms"
+      },
+      "productQualityAssuranceServiceType" : "productQualityAssuranceServiceType",
+      "productQualityAssuranceServiceSchedule" : "productQualityAssuranceServiceSchedule"
+    }
+  },
+  "productQualityAssuranceRetrieveActionTaskRecord" : {},
+  "productQualityAssuranceRetrieveActionResponse" : "productQualityAssuranceRetrieveActionResponse",
+  "productQualityAssuranceRetrieveActionRecord" : {
+    "productQualityAssuranceActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "productQualityAssurancePerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    }
+  },
+  "productQualityAssuranceRetrieveActionTaskReference" : "SRATR795161"
+}

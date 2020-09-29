@@ -1,0 +1,24 @@
+{
+  "productQualityAssuranceActivationActionTaskReference" : "SAATR758836",
+  "productQualityAssuranceServicingSessionStatus" : "productQualityAssuranceServicingSessionStatus",
+  "productQualityAssuranceServicingSessionReference" : "SSSR783215",
+  "productQualityAssuranceActivationActionTaskRecord" : {},
+  "productQualityAssuranceServicingSessionRecord" : {},
+  "productQualityAssuranceServiceConfigurationRecord" : {
+    "productQualityAssuranceServiceStatus" : "productQualityAssuranceServiceStatus",
+    "productQualityAssuranceServiceAgreement" : {
+      "productQualityAssuranceServiceUserReference" : "767210",
+      "productQualityAssuranceServiceAgreementReference" : "791202",
+      "productQualityAssuranceServiceAgreementTermsandConditions" : "productQualityAssuranceServiceAgreementTermsandConditions"
+    },
+    "productQualityAssuranceServiceConfigurationSettingDescription" : "productQualityAssuranceServiceConfigurationSettingDescription",
+    "productQualityAssuranceServiceSubscription" : {
+      "productQualityAssuranceServiceSubscriberAccessProfile" : "productQualityAssuranceServiceSubscriberAccessProfile",
+      "productQualityAssuranceServiceSubscriberReference" : "769192"
+    },
+    "productQualityAssuranceServiceConfigurationSettingReference" : "700761",
+    "productQualityAssuranceServiceConfigurationSetup" : {
+      "productQualityAssuranceServiceConfigurationParameter" : "productQualityAssuranceServiceConfigurationParameter"
+    }
+  }
+}

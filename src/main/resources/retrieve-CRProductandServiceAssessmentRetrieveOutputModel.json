@@ -1,0 +1,25 @@
+{
+  "productandServiceAssessmentSelectedOption" : "productandServiceAssessmentSelectedOption",
+  "productandServiceAssessmentServiceProviderReference" : "PASASR765436",
+  "productandServiceAssessmentRetrieveActionTaskReference" : "PASARATR771580",
+  "productandServiceAssessmentRetrieveActionTaskRecord" : {},
+  "productandServiceAssessmentStatus" : "productandServiceAssessmentStatus",
+  "productandServiceAssessmentInstanceReportRecord" : {
+    "productandServiceAssessmentInstanceReportData" : "productandServiceAssessmentInstanceReportData",
+    "productandServiceAssessmentInstanceReport" : {},
+    "productandServiceAssessmentInstanceReportType" : "productandServiceAssessmentInstanceReportType"
+  },
+  "productandServiceAssessmentRetrieveActionResponse" : "productandServiceAssessmentRetrieveActionResponse",
+  "productandServiceAssessmentUsageLog" : "productandServiceAssessmentUsageLog",
+  "productandServiceAssessmentInstanceAnalysis" : {
+    "productandServiceAssessmentInstanceAnalysisReport" : {},
+    "productandServiceAssessmentInstanceAnalysisData" : "productandServiceAssessmentInstanceAnalysisData",
+    "productandServiceAssessmentInstanceAnalysisReportType" : "productandServiceAssessmentInstanceAnalysisReportType"
+  },
+  "productandServiceAssessmentRequesterReference" : "PASARR759193",
+  "productandServiceAssessmentType" : "productandServiceAssessmentType",
+  "productandServiceAssessmentReference" : "PASAR778896",
+  "productandServiceAssessmentParameterType" : "productandServiceAssessmentParameterType",
+  "productandServiceAssessmentRequest" : "productandServiceAssessmentRequest",
+  "productandServiceAssessmentSchedule" : "productandServiceAssessmentSchedule"
+}

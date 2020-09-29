@@ -1,0 +1,14 @@
+{
+  "usabilityChecksInitiateActionReference" : "UCIAR752053",
+  "usabilityChecksServiceType" : "usabilityChecksServiceType",
+  "usabilityChecksServiceDescription" : "usabilityChecksServiceDescription",
+  "usabilityChecksServiceInputsandOuputs" : "usabilityChecksServiceInputsandOuputs",
+  "usabilityChecksInitiateActionRecord" : {},
+  "usabilityChecksAnalysisSchedule" : "usabilityChecksAnalysisSchedule",
+  "usabilityChecksVersionNumber" : "usabilityChecksVersionNumber",
+  "usabilityChecksPreconditions" : "usabilityChecksPreconditions",
+  "usabilityChecksServiceWorkProduct" : "usabilityChecksServiceWorkProduct",
+  "usabilityChecksInstanceStatus" : "usabilityChecksInstanceStatus",
+  "usabilityChecksServiceName" : "usabilityChecksServiceName",
+  "usabilityChecksInstanceReference" : "UCIR778686"
+}

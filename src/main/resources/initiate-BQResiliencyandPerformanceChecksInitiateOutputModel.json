@@ -1,0 +1,15 @@
+{
+  "resiliencyandPerformanceChecksInstanceStatus" : "resiliencyandPerformanceChecksInstanceStatus",
+  "resiliencyandPerformanceChecksAnalysisSchedule" : "resiliencyandPerformanceChecksAnalysisSchedule",
+  "resiliencyandPerformanceChecksServiceType" : "resiliencyandPerformanceChecksServiceType",
+  "resiliencyandPerformanceChecksInitiateActionReference" : "RAPCIAR741233",
+  "resiliencyandPerformanceChecksServiceName" : "resiliencyandPerformanceChecksServiceName",
+  "resiliencyandPerformanceChecksServiceDescription" : "resiliencyandPerformanceChecksServiceDescription",
+  "resiliencyandPerformanceChecks" : "resiliencyandPerformanceChecks",
+  "resiliencyandPerformanceChecksServiceInputsandOuputs" : "resiliencyandPerformanceChecksServiceInputsandOuputs",
+  "resiliencyandPerformanceChecksInstanceReference" : "RAPCIR752011",
+  "resiliencyandPerformanceChecksInitiateActionRecord" : {},
+  "resiliencyandPerformanceChecksVersionNumber" : "resiliencyandPerformanceChecksVersionNumber",
+  "resiliencyandPerformanceChecksPreconditions" : "resiliencyandPerformanceChecksPreconditions",
+  "resiliencyandPerformanceChecksServiceWorkProduct" : "resiliencyandPerformanceChecksServiceWorkProduct"
+}

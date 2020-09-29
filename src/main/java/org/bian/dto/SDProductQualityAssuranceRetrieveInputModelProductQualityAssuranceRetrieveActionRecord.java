@@ -1,0 +1,67 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecordControlRecordPortfolioAnalysis;
+import org.bian.dto.SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecordProductQualityAssuranceActivityAnalysis;
+import org.bian.dto.SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecordProductQualityAssurancePerformanceAnalysis;
+
+import javax.validation.Valid;
+  
+/**
+ * SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecord
+ */
+public class SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecord   {
+  private SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecordProductQualityAssuranceActivityAnalysis productQualityAssuranceActivityAnalysis = null;
+
+  private SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecordProductQualityAssurancePerformanceAnalysis productQualityAssurancePerformanceAnalysis = null;
+
+  private SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis = null;
+
+
+  /**
+   * Get productQualityAssuranceActivityAnalysis
+   * @return productQualityAssuranceActivityAnalysis
+  **/
+
+  public SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecordProductQualityAssuranceActivityAnalysis getProductQualityAssuranceActivityAnalysis() {
+    return productQualityAssuranceActivityAnalysis;
+  }
+
+  public void setProductQualityAssuranceActivityAnalysis(SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecordProductQualityAssuranceActivityAnalysis productQualityAssuranceActivityAnalysis) {
+    this.productQualityAssuranceActivityAnalysis = productQualityAssuranceActivityAnalysis;
+  }
+
+
+  /**
+   * Get productQualityAssurancePerformanceAnalysis
+   * @return productQualityAssurancePerformanceAnalysis
+  **/
+
+  public SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecordProductQualityAssurancePerformanceAnalysis getProductQualityAssurancePerformanceAnalysis() {
+    return productQualityAssurancePerformanceAnalysis;
+  }
+
+  public void setProductQualityAssurancePerformanceAnalysis(SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecordProductQualityAssurancePerformanceAnalysis productQualityAssurancePerformanceAnalysis) {
+    this.productQualityAssurancePerformanceAnalysis = productQualityAssurancePerformanceAnalysis;
+  }
+
+
+  /**
+   * Get controlRecordPortfolioAnalysis
+   * @return controlRecordPortfolioAnalysis
+  **/
+
+  public SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecordControlRecordPortfolioAnalysis getControlRecordPortfolioAnalysis() {
+    return controlRecordPortfolioAnalysis;
+  }
+
+  public void setControlRecordPortfolioAnalysis(SDProductQualityAssuranceRetrieveInputModelProductQualityAssuranceRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis) {
+    this.controlRecordPortfolioAnalysis = controlRecordPortfolioAnalysis;
+  }
+
+
+}
+
